@@ -1,0 +1,9 @@
+
+.user {
+    color: rgba(0,0,0,0.4);
+}
+
+.user h3:hover {
+    cursor: pointer;
+    color: black;
+}

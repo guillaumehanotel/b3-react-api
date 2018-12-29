@@ -1,0 +1,12 @@
+.comments {
+    text-align: left;
+}
+
+.comments .comment-author {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.comments .comment-content {
+    font-size: 13px;
+}
